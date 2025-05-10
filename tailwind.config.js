@@ -7,8 +7,8 @@ module.exports = {
             colors: {
                 primary: "#00040f",
                 secondary: "#00f6ff",
-                dimWhite: "rgba(255, 255, 255, 0.7)",
-                dimBlue: "rgba(9, 151, 124, 0.1)",
+                dimwhite: "rgba(255, 255, 255, 0.7)", // TODO: Find-out white dimWhite no working (camelcase)
+                dimblue: "rgba(9, 151, 124, 0.1)",
             },
             fontFamily: {
                 poppins: ["Poppins", "sans-serif"],
